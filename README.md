@@ -1,4 +1,4 @@
-# 🖥️ Análisis de Datos de Call Center
+# 🖥️ Análisis de Datos de Call Center (14/4)
 
 ## 📋 Descripción
 Este proyecto analiza los patrones de operación de los operadores de un Call Center. Se examinan 5 datasets para identificar tendencias de consumo, horarios de mayor actividad y productos más populares.
